@@ -1,0 +1,12 @@
+Git est un système de contrôle de version distribué, ce qui signifie qu'un clone local du projet est un dépôt de contrôle de version complet. Ces référentiels locaux entièrement opérationnels facilitent le travail en mode hors connexion ou à distance.
+repositoty est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. 
+GitHub vous permet de partager des projets sur votre profil et conserve également une chronologie de tous ceux auxquels vous avez contribué. Pour résumer la différence entre git et GitHub : git est un logiciel VCS local qui permet aux développeurs de sauvegarder des instantanés de leurs projets au fil du temps.
+dépôt
+un commit fait un push de changements du client SVN local vers un dépôt SVN partagé, centralisé et distant. Pull fusionne les modifications des autres utilisateurs dans les fichiers que vous avez modifiés et copie les modifications apportées par d'autres utilisateurs dans les fichiers que vous n'avez pas modifiés.
+Ce modèle de README peut vous aider à structurer votre documentation.
+Il y a deux façons de récupérer un dépôt Git. L'une consiste à le copier d'un dépôt existant sur le réseau ou ailleurs et l'autre est d'en créer un nouveau dans un dossier existant.
+Linux est un système d'exploitation, à l'instar de Windows ou macOS. Il permet d'exécuter des programmes, de gérer les fichiers, de communiquer avec les périphériques (clavier, écran, imprimante, etc.). Sans OS, impossible de faire fonctionner un ordinateur moderne.
+Unix, Minix et GNU.
+Linux est une famille os c'est un système d'exploitation (OS) open source basé sur Unix. Il fonctionne sur les ordinateurs, les serveurs, les mobiles et une large gamme d'autres appareils.
+Ubuntu, RedHat, Linux Mint, ArchLinux
+Sa grande particularité est son utilisation du système, en effet GNU/Linux est capable de faire fonctionner de nombreuses applications en même temps, sans risque de blocage, grâce à un partage efficace de la mémoire. Sa grande stabilité explique que 25% des ordinateurs serveurs l'utilisent.
